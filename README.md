@@ -12,3 +12,11 @@ Changes have:
 - Among other...
 
 Help us keep this project and become free Photoshop and Windows/Mac.
+
+## How to Install?
+
+1. Make a backup from your old .gimp-2.8 folder
+2. Get .gimp-2.8 folder
+3. Copy to /home/yourUser folter in linux, or %appdata% in windows.
+4. Replace all files
+5. Let's Rock!
