@@ -12,3 +12,11 @@ As alterações contam com:
 - Entre outros...
 
 Ajude-nos a manter este projeto e torne-se livre do Photoshop e do Windows/Mac.
+
+## Como instalar?
+
+1. Faça o backup da sua antiga pasta .gimp-2.8
+2. Pegue a pasta .gimp-2.8 nova
+3. Copie para a pasta /home/nomedoUsuario no linux, ou %appdata% no windows.
+4. Substitua todos os arquivos.
+5. Let's Rock! :D
