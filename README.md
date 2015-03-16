@@ -1,7 +1,7 @@
 myPhotoGimp - Making your Gimp an alternative to Photoshop!
 ===========
 
-See also: English - [Portuguese](https://github.com/rafaelvieiras/myphotogimp/master/README-pt_BR.md)
+Veja também em: English - [Portuguese](https://github.com/rafaelvieiras/myphotogimp/master/README-pt_BR.md)
 
 myPhotoGimp is a customization set based on Gimpshop project's [Diolinux.com.br](http://www.diolinux.com.br/2014/08/gimpshop-tranforme-o-gimp-no-photoshop.html), these customizations are made in Gimp to make it as near as possible to the PhotoShop.
 
