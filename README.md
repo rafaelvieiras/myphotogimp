@@ -11,14 +11,4 @@ Changes have:
 - Interface Customization
 - Among other...
 
-Help us keep this project and become free Photoshop and Windows / Mac.
-
-myPhotoGimp é um conjunto de customização baseado no projeto GimpShop do [Diolinux.com.br](http://www.diolinux.com.br/2014/08/gimpshop-tranforme-o-gimp-no-photoshop.html), essas customizações são feitas no Gimp para torná lo o mais proximo possivel do PhotoShop.
-
-As alterações contam com:
-- Configurações de Atalhos
-- Adição de Plugins
-- Customização da Interface
-- Entre outros...
-
-Ajude-nos a manter este projeto e torne-se livre do Photoshop e do Windows/Mac.
+Help us keep this project and become free Photoshop and Windows/Mac.
